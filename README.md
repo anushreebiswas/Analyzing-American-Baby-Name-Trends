@@ -20,7 +20,7 @@ We investigate the **popularity**, **persistence**, and **evolution** of baby na
 - **SQL** – Core language for querying, ranking, aggregation, and filtering  
 - **Window Functions** – For calculating ranks and cumulative sums  
 - **Subqueries & CTEs** – For isolating top names and advanced filtering  
-- **PostgreSQL** – relational database  for analysis  
+- **PostgreSQL** – relational database engine for analysis  
 
 
 ---
